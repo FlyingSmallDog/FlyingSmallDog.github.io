@@ -3,9 +3,9 @@
   "short_name": "BY Blog",
   "description": "A personal blog by engineer",
   "icons": [{
-    "src": "icons/logo.jpg",
+    "src": "icons/logo.png",
     "sizes": "128x128",
-    "type": "image/jpg"
+    "type": "image/png"
   }],
   "background_color": "#fff",
   "theme_color": "#000",
