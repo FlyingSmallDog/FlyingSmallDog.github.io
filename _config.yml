@@ -1,12 +1,12 @@
 # Site settings
-title: BY Blog
-SEOTitle: 猿小白的博客 | BY Blog
+title: 猿小白的博客
+SEOTitle: 猿小白的博客
 header-img: img/post-bg-desk.jpg
 email: 1115749422@qq.com
 description: "Every failure is leading towards success."
 keyword: "IT,程序猿"
 url: "http://junhaoli.cn"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/FlyingSmallDog/FlyingSmallDog.github.io.git" # you code repository
 
 # Sidebar settings
