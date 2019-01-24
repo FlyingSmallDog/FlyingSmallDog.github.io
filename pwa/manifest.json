@@ -13,8 +13,3 @@
   "display": "standalone",
   "orientation": "portrait"
 }
-/*, {
-    "src": "icons/pwa_icon_512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }],*/
