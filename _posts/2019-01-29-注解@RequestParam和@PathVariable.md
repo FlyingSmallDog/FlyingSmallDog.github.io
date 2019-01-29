@@ -24,7 +24,7 @@ tags:
             return user;
     }
     
-    //此方法访问url： http://host:port/user/id
+    //此方法访问url： http://host:port/user/1
     @RequestMapping(value="/user/{id}",method = RequestMethod.GET)
     public User getUser2(@PathVariable int i ){
             ***
