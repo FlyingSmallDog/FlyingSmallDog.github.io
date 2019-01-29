@@ -17,14 +17,14 @@ tags:
  
  **示例如下：**
  ```
-    此方法访问url：http://host:port/user?id=1
+    //此方法访问url：http://host:port/user?id=1
     @RequestMapping(value="/user",method = RequestMethod.GET)
     public User getUser1(@RequestParan int id){
             ***
             return user;
     }
     
-    此方法访问url： http://host:port/user/id
+    //此方法访问url： http://host:port/user/id
     @RequestMapping(value="/user/{id}",method = RequestMethod.GET)
     public User getUser2(@PathVariable int i ){
             ***
