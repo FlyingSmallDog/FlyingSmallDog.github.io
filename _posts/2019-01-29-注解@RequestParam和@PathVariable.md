@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 注解@RequestParam和@PathVariable
-date: 2019-01-14
+date: 2019-01-29
 author: 十二
 header-img: img/post-bg-2015.jpg
 catalog: true
